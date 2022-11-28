@@ -22,4 +22,5 @@
     <color name="small_text">#5A00FF</color>
     <color name="rate_app_text_color">#96DEFF</color>
     <color name="logo_color2">#35B7F3</color>
+    <color name="background">#0C9DE5</color>
 </resources>

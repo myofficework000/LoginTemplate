@@ -12,10 +12,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TemplatesOfLoginApp"
         tools:targetApi="31">
+        <activity
+            android:name=".LoginDesign3"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
         <activity android:name=".LoginActivity1" />
         <activity
             android:name=".MainActivity"
-
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"

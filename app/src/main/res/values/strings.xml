@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TemplatesOfLoginApp</string>
+    <string name="register_text">Register Account</string>
+    <string name="signin_text">Sign In</string>
 </resources>

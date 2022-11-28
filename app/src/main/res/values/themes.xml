@@ -13,4 +13,16 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+    <style name="EntryTextTheme" parent="Widget.AppCompat.EditText">
+        <item name="android:textSize">@dimen/_15sp</item>
+        <item name="android:textColor">@color/primary_text_color</item>
+        <item name="android:backgroundTint">@color/primary_text_color</item>
+        <item name="android:textColorHint">@color/primary_text_color</item>
+    </style>
+
+    <style name="SigninTextEntry" parent="Widget.AppCompat.EditText">
+        <item name="android:textSize">@dimen/_15sp</item>
+        <item name="android:textColor">@color/signin_text_color</item>
+        <item name="android:textColorHint">@color/signin_text_color</item>
+    </style>
 </resources>

@@ -30,4 +30,8 @@
     <dimen name="_175dp">175dp</dimen>
     <dimen name="_170dp">170dp</dimen>
     <dimen name="_172dp">172dp</dimen>
+    <dimen name="_25sp">25sp</dimen>
+    <dimen name="_15dp">15dp</dimen>
+    <dimen name="_75dp">75dp</dimen>
+    <dimen name="_25dp">25dp</dimen>
 </resources>
